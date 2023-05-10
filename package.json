@@ -10,6 +10,10 @@
   "type": "module",
   "author": "Jean-Philippe Bidegain",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aeyoll/imperial-stdout"
+  },
   "exports": {
     ".": {
       "browser": {
