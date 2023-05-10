@@ -1,0 +1,1 @@
+{"version":3,"file":"imperialStdout.js","sources":["../../lib/imperialStdout.js"],"sourcesContent":["export default function imperialStdout(message) {\n  console.log(message);\n}\n"],"names":[],"mappings":";AAAe,SAAS,cAAc,CAAC,OAAO,EAAE;AAChD,EAAE,OAAO,CAAC,GAAG,CAAC,OAAO,CAAC,CAAC;AACvB;;;;"}
