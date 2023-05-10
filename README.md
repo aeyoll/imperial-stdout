@@ -47,3 +47,11 @@ you can try importing the module package directly:
 const imperialStdout = require('imperial-stdout/dist/browser/imperial-stdout.cjs'); // browser commonJS bundle (ES2017)
 // const imperialStdout = require('imperial-stdout/dist/node/imperial-stdout.cjs'); // node commonJS bundle (ES2017)
 ```
+
+## Credits
+
+Thanks to [@JEDacreWright](https://github.com/JEDacreWright) for this fantastic play on word.
+
+## Is it a joke?
+
+You bet.
